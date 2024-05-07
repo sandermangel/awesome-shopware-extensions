@@ -7,6 +7,7 @@ The most useful Shopware extensions and customizations
 - https://store.shopware.com/en/bilob74773237519m/variant-matrix-quick-order.html
 - https://store.shopware.com/en/kielc32278851969m/property-filter-per-category.html
 - https://store.shopware.com/en/dvsn895115432267m/product-configurator-for-sets-bundle-configurator.html
+- https://store.shopware.com/en/laene61720950437m/giftcards.html
 
 ## Content
 - https://store.shopware.com/en/acris92276131949m/preview-function-for-products-categories-and-shopping-experience.html
@@ -20,7 +21,12 @@ The most useful Shopware extensions and customizations
 
 ## Checkout
 - https://store.shopware.com/en/prems53412097095m/discount-category.html
+- https://store.shopware.com/en/laene46580819391m/one-page-checkout.html
+- https://store.shopware.com/en/laene77372187825m/loyalty-program.html
 
 ## SEO
 - https://store.shopware.com/en/dreis43878114545m/seo-professional.html
 - https://store.shopware.com/en/fishn91813935050m/generate-meta-title-and-meta-description-automatically.html
+
+## Administration
+- https://github.com/runelaenen/shopware6-two-factor-auth
