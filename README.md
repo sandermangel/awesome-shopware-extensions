@@ -27,3 +27,6 @@ The most useful Shopware extensions and customizations
 ## SEO
 - https://store.shopware.com/en/dreis43878114545m/seo-professional.html
 - https://store.shopware.com/en/fishn91813935050m/generate-meta-title-and-meta-description-automatically.html
+
+## Administration
+- https://github.com/runelaenen/shopware6-two-factor-auth
